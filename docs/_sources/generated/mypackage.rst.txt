@@ -1,0 +1,10 @@
+mypackage package
+=================
+
+Module contents
+---------------
+
+.. automodule:: mypackage
+   :members:
+   :show-inheritance:
+   :undoc-members:
